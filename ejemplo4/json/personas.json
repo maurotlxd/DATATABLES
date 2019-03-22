@@ -1,0 +1,45 @@
+{"data" :[
+	{
+		"id" : 1,
+		"nombre" : "Mauro Enrique", 
+		"apellidos" : "Canales Zapata", 
+		"edad" : 22,
+		"deporte" : "futbol"
+	},
+	{
+		"id" : 2,
+		"nombre" : "Juan", 
+		"apellidos" : "Canales Zapata", 
+		"edad" : 20,
+		"deporte" : "futbol"
+	},
+	{
+		"id" : 3,
+		"nombre" : "Gris Marianela", 
+		"apellidos" : "Canales Zapata", 
+		"edad" : 26,
+		"deporte" : "futbol,voley"
+	},
+	{
+		"id" : 4,
+		"nombre" : "Maria", 
+		"apellidos" : "Gomez Perez", 
+		"edad" : 23,
+		"deporte" : "voley"
+	},
+	{
+		"id" : 5,
+		"nombre" : "Mariana", 
+		"apellidos" : "Gomez Perez", 
+		"edad" : 24,
+		"deporte" : "voley"
+	},
+	{
+		"id" : 6,
+		"nombre" : "Arturo", 
+		"apellidos" : "Soto Perez", 
+		"edad" : 36,
+		"deporte" : "futbol"
+	}
+
+]}

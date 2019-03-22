@@ -1,0 +1,10 @@
+.selected{
+
+	background-color: #00a8ff;
+
+}
+
+#ejemplo1 tbody tr{
+
+	cursor: pointer;
+}
