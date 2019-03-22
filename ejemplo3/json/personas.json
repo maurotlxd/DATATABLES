@@ -1,0 +1,21 @@
+{"data" :[
+	{
+		"nombre" : "Mauro Enrique", 
+		"apellidos" : "Canales Zapata", 
+		"edad" : 22,
+		"deporte" : "futbol"
+	},
+	{
+		"nombre" : "Juan", 
+		"apellidos" : "Canales Zapata", 
+		"edad" : 20,
+		"deporte" : "futbol"
+	},
+	{
+		"nombre" : "Gris Marianela", 
+		"apellidos" : "Canales Zapata", 
+		"edad" : 26,
+		"deporte" : "futbol,voley"
+	}
+
+]}
