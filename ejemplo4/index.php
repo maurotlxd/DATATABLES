@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Datatables | Ejemplo 3</title>
+<title>Datatables | Ejemplo 4</title>
 <link rel="stylesheet" type="text/css" href="css/datatables/dataTables.bootstrap4.min.css">
 <link rel="stylesheet" type="text/css" href="css/datatables/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
