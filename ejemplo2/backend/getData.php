@@ -11,6 +11,4 @@ class GetData{
 	}
 }
 
-
-new GetData;
  ?>
